@@ -7,7 +7,7 @@ A Future Ready Talent Internship project to dewvelop a hospital azure static web
 
 Project Link :https://yellow-sea-0cb349410.5.azurestaticapps.net
 
-Demo Video :https://vimeo.com/824150188/c6b69c74dd?share=copy
+Demo Video :https://www.loom.com/share/8891e9ecbc134315b347fe80bf67758b?sid=74ba3e8a-c948-4457-9103-db9857c3cbe5
 
 Languages used :
 - HTML
