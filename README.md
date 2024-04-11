@@ -47,18 +47,24 @@ Quickhealth - Provide affordable healthcare services with health related chat as
 -A advance feature of healthbot gives leverages to answering of the general questions related to health so it will be more beneficial to the remote people. 
 
 ### Screenshots :
-![Screenshot (35)](https://user-images.githubusercontent.com/93502957/236379189-cfb0480f-8a86-412c-9a2d-f6c2380ed503.png)
 
-![Screenshot (36)](https://user-images.githubusercontent.com/93502957/236379210-55e184d5-287b-46d5-971c-4d84d26c5ed3.png)
+![Screenshot (36)](https://github.com/Saket8538/Quickhealth/blob/main/images/Screenshot%20(160).png)
+![Screenshot (36)](https://github.com/Saket8538/Quickhealth/blob/main/images/Screenshot%20(161).png)
+![Screenshot (36)](https://github.com/Saket8538/Quickhealth/blob/main/images/Screenshot%20(162).png)
+![Screenshot (36)](https://github.com/Saket8538/Quickhealth/blob/main/images/Screenshot%20(163).png)
+![Screenshot (36)](https://github.com/Saket8538/Quickhealth/blob/main/images/Screenshot%20(164).png)
+![Screenshot (36)](https://github.com/Saket8538/Quickhealth/blob/main/images/Screenshot%20(165).png)
+![Screenshot (36)](https://github.com/Saket8538/Quickhealth/blob/main/images/Screenshot%20(166).png)
+![Screenshot (36)](https://github.com/Saket8538/Quickhealth/blob/main/images/Screenshot%20(167).png)
+![Screenshot (36)](https://github.com/Saket8538/Quickhealth/blob/main/images/Screenshot%20(168).png)
+![Screenshot (36)](https://github.com/Saket8538/Quickhealth/blob/main/images/Screenshot%20(169).png)
+![Screenshot (36)](https://github.com/Saket8538/Quickhealth/blob/main/images/Screenshot%20(170).png)
+![Screenshot (36)](https://github.com/Saket8538/Quickhealth/blob/main/images/Screenshot%20(171).png)
+![Screenshot (36)](https://github.com/Saket8538/Quickhealth/blob/main/images/Screenshot%20(172).png)
+![Screenshot (36)](https://github.com/Saket8538/Quickhealth/blob/main/images/Screenshot%20(173).png)
+![Screenshot (36)](https://github.com/Saket8538/Quickhealth/blob/main/images/Screenshot%20(174).png)
+![Screenshot (36)](https://github.com/Saket8538/Quickhealth/blob/main/images/Screenshot%20(175).png)
+![Screenshot (36)](https://github.com/Saket8538/Quickhealth/blob/main/images/Screenshot%20(176).png)
 
-![Screenshot (37)](https://user-images.githubusercontent.com/93502957/236379219-255cc6e9-e57a-414b-a683-dd423034bb65.png)
-
-![Screenshot (38)](https://user-images.githubusercontent.com/93502957/236379238-8fda38a9-e57f-4694-bad9-6b023c3d2006.png)
-
-### Healthbot Screenshots:
-
-![Screenshot (39)](https://user-images.githubusercontent.com/93502957/236379293-afbfcdaa-32f8-45e8-9c62-ae30db806dfe.png)
-
-![Screenshot (40)](https://user-images.githubusercontent.com/93502957/236379307-1964aa6b-35dd-4deb-9495-85d2543bb71f.png)
 
 
