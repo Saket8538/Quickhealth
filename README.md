@@ -1,7 +1,6 @@
 # Quickhealth
-# Microsoft-Future-Ready-Talent-Virtual-Internship-Project
 
-A Future Ready Talent Internship project to dewvelop a hospital azure static website along with azure healthbot to give services to the people with time efficiently and remotely ease of interaction with chatbot for general  health questions and answers. 
+A Future Ready Talent  project to dewvelop a hospital azure static website along with azure healthbot to give services to the people with time efficiently and remotely ease of interaction with chatbot for general  health questions and answers. 
 
 # [ Quickhealth Website with Healthbot](https://yellow-sea-0cb349410.5.azurestaticapps.net)
 
