@@ -2,9 +2,9 @@
 
 A Future Ready Talent  project to develop a hospital azure static website along with azure healthbot to give services to the people with time efficiently and remotely ease of interaction with chatbot for general  health questions and answers. 
 
-# [ Quickhealth Website with Healthbot](https://yellow-sea-0cb349410.5.azurestaticapps.net)
+# [ Quickhealth Website with Healthbot](https://victorious-plant-0c32c0f10.5.azurestaticapps.net)
 
-Project Link :https://yellow-sea-0cb349410.5.azurestaticapps.net
+Project Link :https://victorious-plant-0c32c0f10.5.azurestaticapps.net
 
 Demo Video :https://www.loom.com/share/8891e9ecbc134315b347fe80bf67758b?sid=74ba3e8a-c948-4457-9103-db9857c3cbe5
 
